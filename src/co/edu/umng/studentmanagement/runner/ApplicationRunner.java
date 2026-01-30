@@ -8,7 +8,8 @@ public class ApplicationRunner {
 
     /*
      * Integrantes del equipo:
-     * - Alexander Sandoval. Código 200582
+     * - Alexander José Sandoval Figueredo. Código 200582
+     * - Yarik Valeria Serrano Recamán. Código 200583
      */
     public static void main(String[] args) {
         StudentController controller = new StudentController(new StudentRepository(), new StudentView());
