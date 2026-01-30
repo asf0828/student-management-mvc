@@ -1,5 +1,9 @@
 package co.edu.umng.studentmanagement.view;
 
+import co.edu.umng.studentmanagement.model.Student;
+
+import java.util.List;
+
 public class StudentView {
 
     public void showStudentList(List<Student> students) {

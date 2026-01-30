@@ -1,5 +1,7 @@
 package co.edu.umng.studentmanagement.model;
 
+import java.util.List;
+
 public class StudentRepository {
 
     private List<Student> students;
