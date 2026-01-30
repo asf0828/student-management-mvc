@@ -92,5 +92,4 @@ classDiagram
     StudentController --> StudentRepository
     StudentController --> StudentView
     StudentRepository "1" --> "*" Student
-``
 ```
