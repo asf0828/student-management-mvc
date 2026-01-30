@@ -1,5 +1,9 @@
 package co.edu.umng.studentmanagement.runner;
 
+import co.edu.umng.studentmanagement.controller.StudentController;
+import co.edu.umng.studentmanagement.model.StudentRepository;
+import co.edu.umng.studentmanagement.view.StudentView;
+
 public class ApplicationRunner {
 
     /*
